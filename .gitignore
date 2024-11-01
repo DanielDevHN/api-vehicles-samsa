@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+
+# Archivos de logs
+logs
+*.log
+npm-debug.log*
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE/editor
+.idea/
+.vscode/
+*.iml
+
+# Archivos de configuración
+config/
+*.env
+
+# Archivos temporales
+tmp/
+temp/
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de prueba
+coverage/
+.nyc_output/
+
+# Otros
+*.swp
